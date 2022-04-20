@@ -80,3 +80,6 @@ plt.ylabel("Duration (min)")
 
 # Show the plot
 plt.show()
+
+# Are we certain that movies are getting shorter?
+are_movies_getting_shorter = 'no'
